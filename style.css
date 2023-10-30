@@ -55,7 +55,6 @@ ul {
 
 /* news */
 #news dl {
-  border-top: solid 1px #eeee;
   border-bottom: solid 1px  #eeee;
   display: flex;
 }
